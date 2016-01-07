@@ -3,7 +3,8 @@
 __This is the BigBox maintained version of Marlin__
 
 <img align="top" width=175 src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
- Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
+ Additional documentation about the BigBox can be found on [our wiki](http://wiki.e3d-online.com/wiki/BigBox_Build_Manual).
+ Additional documentation about marlin can be found on the [marlin wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
 ## Release Candidate -- Marlin 1.1.0-RC3 - 01 December 2015
 
